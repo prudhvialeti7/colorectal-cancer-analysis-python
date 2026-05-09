@@ -3,3 +3,5 @@ numpy
 matplotib
 seaborn
 juypter
+scikit-learn
+streamlit
