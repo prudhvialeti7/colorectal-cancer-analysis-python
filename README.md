@@ -1,2 +1,21 @@
-# colorectal-cancer-analysis-python
-Exploratory Data Analysis (EDA) on colorectal cancer dataset using Python, Pandas, NumPy, and Matplotlib to identify trends, patterns, and healthcare insights.
+
+# Colorectal Cancer Analysis Using Python
+
+## Project Overview
+This project analyzes colorectal cancer patient data using Python to identify patterns and trends through exploratory data analysis.
+
+## Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+
+## Tasks Performed
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Trend Analysis
+
+## Files Included
+- dataset.csv
+- analysis.ipynb
